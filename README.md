@@ -6,7 +6,7 @@ Developed using NodeJS + Express, and PostgreSQL + Sequelize
 
 
 URL | HTTP Verb | Action
------------- | -------------
+------------ | ------------- | ------------
 /api/todos/ | GET | Get all todos
 /api/todos/:id | GET | Get single todo
 /api/todos/ | POST | Add a todo
