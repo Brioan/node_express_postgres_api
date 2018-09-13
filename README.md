@@ -18,8 +18,9 @@ URL | HTTP Verb | Action
 /api/todos/:id/items/:id | PUT | Update a todo item
 /api/todos/:id/items/:id | DELETE | DELETE a todo item
 
+Database schema
 
-![image][(https://raw.githubusercontent.com/Brioan/node_express_postgres_api/master/server/images/postgres.png)]
+![image](https://raw.githubusercontent.com/Brioan/node_express_postgres_api/master/server/images/postgres.png)
 
 
 
