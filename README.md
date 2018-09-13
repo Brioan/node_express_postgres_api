@@ -19,5 +19,7 @@ URL | HTTP Verb | Action
 /api/todos/:id/items/:id | DELETE | DELETE a todo item
 
 
+![image][(https://raw.githubusercontent.com/Brioan/node_express_postgres_api/master/server/images/postgres.png)]
+
 
 
